@@ -17,24 +17,6 @@ on Guwahati's smaller roads, bylanes and remote areas during monsoon season.
 - Leaflet + React-Leaflet (OpenStreetMap tiles)
 - `localStorage` for demo persistence (no backend)
 
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the printed local URL (default `http://localhost:5173`).
-
-Other scripts:
-
-```bash
-npm run build        # type-check + production build
-npm run preview      # preview the production build
-npm run test:smoke   # end-to-end smoke test (headless Chrome, system install)
-node tests/mobile_check.mjs  # 360px layout check + screenshots (shots/)
-```
-
 ## Features
 
 **Citizen**
